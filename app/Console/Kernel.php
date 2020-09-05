@@ -24,8 +24,8 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-//        $schedule->command('notify:email')
-//            ->everyMinute();
+        $schedule->command('notify:email')
+            ->monthlyOn(1, '00:00');
 
 //        $schedule->call('App\Http\Controllers\Report\Lists\ListMonthlyReport@MonthlyReport')->everyFiveMinutes();
 //                 ->dailyAt('10:40');

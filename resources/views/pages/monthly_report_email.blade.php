@@ -8,10 +8,11 @@
 
 <h3 style="font-weight: bold; margin-top: 50px">Plastictecnic(M) Sdn. Bhd</h3>
 <p style="font-size: 14px;  font-family: 'Times New Roman'">
-    Lot 1, Jalan P/2A, Kaw Perusahaan Pkt 1, 43650 Bandar Baru Bangi, Selangor Darul Ehsan
+    Lot 1804 Jalan Lengkok Emas, Kawasan Perindustrian Nilai
+    71800 Nilai, Negeri Sembilan, Malaysia
 </p>
 <p style="font-size: 14px;  font-family: 'Times New Roman'">
-    Office : +603 8925 6950 | Fax : +603 8925 6955
+    Tel: (6) 06-799 0010 Fax: (6) 06-799 0016
 </p>
 <p style="font-size: 14px;  font-family: 'Times New Roman'">
     Website : www.plastictecnic.com

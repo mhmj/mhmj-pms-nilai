@@ -18,9 +18,9 @@
                         </div>
                         <div class="row">
                             <div class="col-11">
-                                <p>PKT 1, Lot 1, Jalan P/2a, Kawasan Perusahaan Beranang,</p>
-                                <p style="margin-top: -15px">43650 Bandar Baru Bangi, Selangor Darul Ehsan, Malaysia</p>
-                                <p style="margin-top: -15px">Tel: (6) 03-8925 6950(8 lines) Fax: (6) 03-8925 6955</p>
+                                <p>Lot 1804 Jalan Lengkok Emas, Kawasan Perindustrian Nilai</p>
+                                <p style="margin-top: -15px">71800 Nilai, Negeri Sembilan, Malaysia</p>
+                                <p style="margin-top: -15px">Tel: (6) 06-799 0010 Fax: (6) 06-799 0016</p>
                                 <p style="margin-top: -15px">www.plastictecnic.com</p>
                             </div>
                             <div class="col-1" style="display: flex; justify-content: flex-end; ">
