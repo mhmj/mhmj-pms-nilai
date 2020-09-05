@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcb355d7-41d9-4acb-b4ff-d7c2e2448faf" name="TrackingSystem" url="http://46.137.251.123">
+        <fileTransfer host="46.137.251.123" port="22" privateKey="C:\Users\user\Documents\TrackingSystem\key\Plastictenic_TrackingSystem.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
